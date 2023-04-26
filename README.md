@@ -21,6 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehabelasam&show_icons=true&locale=en&layout=compact" alt="ehabelasam" /></p>
 
+[![eelasam's 42 stats](https://badge42.vercel.app/api/v2/clgxjfkib033608lci7ai997w/stats?cursusId=21&coalitionId=250)](https://github.com/JaeSeoKim/badge42)
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg" alt="github-user-contribution" style="max-width: 100%;">
