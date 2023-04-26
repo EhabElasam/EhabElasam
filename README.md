@@ -36,7 +36,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 <br>
 
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehabelasam&show_icons=true&locale=en" alt="ehabelasam" /></p>
 
