@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehabelasam" alt="ehabelasam" /></a> </p>
 
-- 🌱 I’m currently learning **C & C++**
+- 🌱 I’m currently learning **C & C++** **git & linux & python & docker**
 
 - 👨‍💻 All of my projects are available at [.......](.......)
 
@@ -32,7 +32,12 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 <br>
 
+<br>
+
+<br>
+
 [![eelasam's 42 stats](https://badge42.vercel.app/api/v2/clgxjfkib033608lci7ai997w/stats?cursusId=21&coalitionId=250)](https://github.com/JaeSeoKim/badge42)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehabelasam&show_icons=true&locale=en" alt="ehabelasam" /></p>
 
